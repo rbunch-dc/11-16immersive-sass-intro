@@ -1,0 +1,40 @@
+/* line 8, ../../compass/sass/layout/_header.scss */
+#header .menu-items li {
+  float: left;
+  list-style: none;
+  color: blue;
+}
+
+/* line 12, ../../compass/sass/styles.scss */
+#parent {
+  width: 75%;
+  float: left;
+  background-color: red;
+}
+/* line 16, ../../compass/sass/styles.scss */
+#parent .child {
+  width: 50%;
+  margin: auto;
+  background-color: white;
+}
+/* line 20, ../../compass/sass/styles.scss */
+#parent .child ul {
+  list-style: none;
+}
+/* line 22, ../../compass/sass/styles.scss */
+#parent .child ul li {
+  font-size: 20px;
+  color: red;
+}
+
+/* line 29, ../../compass/sass/styles.scss */
+#parent2 {
+  width: 25%;
+  float: left;
+  background-color: blue;
+}
+/* line 33, ../../compass/sass/styles.scss */
+#parent2 li {
+  font-size: 60px;
+  color: white;
+}
